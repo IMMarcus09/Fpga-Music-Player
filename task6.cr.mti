@@ -1,0 +1,36 @@
+S:/lab-4-can-you-hear-me-now-IMMarcus09/components/audio_codec.v {1 {vlog -work work -stats=none S:/lab-4-can-you-hear-me-now-IMMarcus09/components/audio_codec.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module audio_codec
+
+Top level modules:
+	audio_codec
+
+} {} {}} S:/lab-4-can-you-hear-me-now-IMMarcus09/components/audio_and_video_config.v {1 {vlog -work work -stats=none S:/lab-4-can-you-hear-me-now-IMMarcus09/components/audio_and_video_config.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module audio_and_video_config
+
+Top level modules:
+	audio_and_video_config
+
+} {} {}} S:/lab-4-can-you-hear-me-now-IMMarcus09/task6/chipmunks.sv {1 {vlog -work work -sv -stats=none S:/lab-4-can-you-hear-me-now-IMMarcus09/task6/chipmunks.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module chipmunks
+
+Top level modules:
+	chipmunks
+
+} {} {}} S:/lab-4-can-you-hear-me-now-IMMarcus09/s_mem.v {1 {vlog -work work -stats=none S:/lab-4-can-you-hear-me-now-IMMarcus09/s_mem.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module s_mem
+
+Top level modules:
+	s_mem
+
+} {} {}} S:/lab-4-can-you-hear-me-now-IMMarcus09/components/clock_generator.v {1 {vlog -work work -stats=none S:/lab-4-can-you-hear-me-now-IMMarcus09/components/clock_generator.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module clock_generator
+
+Top level modules:
+	clock_generator
+
+} {} {}}
