@@ -1,0 +1,118 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dS:/lab-4-can-you-hear-me-now-IMMarcus09/task5
+vaudio_and_video_config
+Z0 !s110 1647737297
+!i10b 1
+!s100 H5S>REIXkb2jmA4R;b>E@0
+IF=T^nN]8BM<GSAC2AZL2W3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dS:/lab-4-can-you-hear-me-now-IMMarcus09/task6
+Z3 w1647098547
+8S:/lab-4-can-you-hear-me-now-IMMarcus09/components/audio_and_video_config.v
+FS:/lab-4-can-you-hear-me-now-IMMarcus09/components/audio_and_video_config.v
+Z4 L0 49
+Z5 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z6 !s108 1647737297.000000
+!s107 S:/lab-4-can-you-hear-me-now-IMMarcus09/components/audio_and_video_config.v|
+!s90 -reportprogress|300|-work|work|-stats=none|S:/lab-4-can-you-hear-me-now-IMMarcus09/components/audio_and_video_config.v|
+!i113 1
+Z7 o-work work
+Z8 tCvgOpt 0
+vaudio_codec
+R0
+!i10b 1
+!s100 IWj2Umo=K?`hjF>jkX>7>3
+IEb^mmd0TdM[EgBWC5<]c73
+R1
+R2
+R3
+8S:/lab-4-can-you-hear-me-now-IMMarcus09/components/audio_codec.v
+FS:/lab-4-can-you-hear-me-now-IMMarcus09/components/audio_codec.v
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 S:/lab-4-can-you-hear-me-now-IMMarcus09/components/audio_codec.v|
+!s90 -reportprogress|300|-work|work|-stats=none|S:/lab-4-can-you-hear-me-now-IMMarcus09/components/audio_codec.v|
+!i113 1
+R7
+R8
+vchipmunks
+DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+R0
+!i10b 1
+!s100 =55900_>W?S>Xjin]?beB3
+InfI6[Oa`RoAMAkHRY9dGc3
+R1
+!s105 chipmunks_sv_unit
+S1
+R2
+w1647735965
+8S:/lab-4-can-you-hear-me-now-IMMarcus09/task6/chipmunks.sv
+FS:/lab-4-can-you-hear-me-now-IMMarcus09/task6/chipmunks.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R6
+!s107 S:/lab-4-can-you-hear-me-now-IMMarcus09/task6/chipmunks.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|S:/lab-4-can-you-hear-me-now-IMMarcus09/task6/chipmunks.sv|
+!i113 1
+o-work work -sv
+R8
+vclock_generator
+R0
+!i10b 1
+!s100 [mUdzL@60Sz84VWkbiWER3
+IflG;cQjNHOGJ<OmN0GL0:2
+R1
+R2
+R3
+8S:/lab-4-can-you-hear-me-now-IMMarcus09/components/clock_generator.v
+FS:/lab-4-can-you-hear-me-now-IMMarcus09/components/clock_generator.v
+L0 48
+R5
+r1
+!s85 0
+31
+R6
+!s107 S:/lab-4-can-you-hear-me-now-IMMarcus09/components/clock_generator.v|
+!s90 -reportprogress|300|-work|work|-stats=none|S:/lab-4-can-you-hear-me-now-IMMarcus09/components/clock_generator.v|
+!i113 1
+R7
+R8
+vs_mem
+R0
+!i10b 1
+!s100 OXa817[oPC=EgZcHK]gUC2
+I_D_7@]Rb@oYg_0<>h=TOQ3
+R1
+R2
+w1647108785
+8S:/lab-4-can-you-hear-me-now-IMMarcus09/s_mem.v
+FS:/lab-4-can-you-hear-me-now-IMMarcus09/s_mem.v
+L0 40
+R5
+r1
+!s85 0
+31
+R6
+!s107 S:/lab-4-can-you-hear-me-now-IMMarcus09/s_mem.v|
+!s90 -reportprogress|300|-work|work|-stats=none|S:/lab-4-can-you-hear-me-now-IMMarcus09/s_mem.v|
+!i113 1
+R7
+R8
